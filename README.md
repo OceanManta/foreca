@@ -8,7 +8,8 @@ Monitor and record BTCUSD rates
 <img width="498" alt="Screenshot 2022-02-16 at 5 29 55 PM" src="https://user-images.githubusercontent.com/50319585/154334093-06460154-cb66-46c7-bc21-0f8149b7d362.png">
 
 The API in use stops sending data after sometime because it is free. 
-
+The App works on both Mobile IOS and Web. 
+Responsiveness can also be tested as to fitness
 
 ## Getting Started
 
